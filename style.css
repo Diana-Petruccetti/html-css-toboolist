@@ -48,11 +48,16 @@ header{
     list-style-type: none;
 }
 
+li{
+    margin-bottom: 20px;
+}
+
 #button1{
     color: var(--toboo-white);
     background-color: var(--toboo-editorial);
     border-radius: 15%;
     border-color: #47adf1;
+    padding: 5px 10px 5px 10px;
 }
 
 #button2{
@@ -60,6 +65,7 @@ header{
     background-color: var(--toboo-white);
     border-radius: 15%;
     border-color: lightgrey;
+    padding: 5px 10px 5px 10px;
 }
 
 .check{
@@ -88,6 +94,47 @@ section{
     padding: 5px 10px;
     border-radius: 10px;
     color: var(--toboo-white);
-    background-color: #47adf1;
+    background-color: var(--toboo-editorial);
+    font-size: x-small;
+}
+
+#goals{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color:var(--toboo-goals);
+    font-size: x-small;
+}
+
+#recruiting{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color:var(--toboo-recruiting);
+    font-size: x-small;
+}
+
+#mobile{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color:var(--toboo-mobile);
+    font-size: x-small;
+}
+
+#website{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color:var(--toboo-website);
+    font-size: x-small;
+}
+
+#sales{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color:var(--toboo-sales);
+    font-size: x-small;
 }
 /* /colorful_categories */
