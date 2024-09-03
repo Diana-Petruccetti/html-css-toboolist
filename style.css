@@ -69,17 +69,23 @@ li{
 }
 
 .check{
-    border-radius: 20px;
+    border-radius: 12px;
     border-color: green;
     color: green;
+    border-width: 1px;
+    border-style: solid;
     background-color: var(--toboo-white);
+    padding: 1px 4px;
 }
 
 .x{
-    border-radius: 20px;
+    border-radius: 12px;
     border-color:red;
     color:red;
+    border-width: 1px;
+    border-style: solid;
     background-color: var(--toboo-white);
+    padding: 1px 4px;
 }
 
 section{
