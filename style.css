@@ -1,0 +1,43 @@
+/* generic_attributes */
+:root{
+    --toboo-white: ffffff;
+    --toboo-light: f6f8f9;
+    --toboo-editorial: 47adf1;
+    --toboo-goals: 9c72e4;
+    --toboo-recruiting: 64c0a9;
+    --toboo-mobile: f29e33;
+    --toboo-website: d863a1;
+    --toboo-sales: b0c926;
+}
+
+#font{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+body{
+    margin: 0%;
+    background-color: var(--toboo-light);
+}
+
+#container{
+    width: 80%;
+    margin: auto;
+}
+/* /generic_attributes */
+
+/* header_attributes */
+header{
+    background-color: var(--toboo-white);
+}
+
+#logo_img{
+    display: inline-block;
+    vertical-align: middle;
+    padding-left: 1.5rem;
+}
+
+#logo_txt{
+    display: inline-block;
+    vertical-align: middle;
+}
+/* /header_attributes */
