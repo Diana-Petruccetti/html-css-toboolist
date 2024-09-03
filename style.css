@@ -20,8 +20,9 @@ body{
 }
 
 #container{
-    margin: 20px auto;
+    margin: 40px auto;
     width: 80%;
+    background-color: var(--toboo-white);
 }
 /* /generic_attributes */
 
@@ -43,5 +44,19 @@ header{
 /* /header_attributes */
 
 /* main_attributes */
+.list{
+    list-style-type: none;
+}
 
+#button1{
+    color: var(--toboo-white);
+    background-color: var(--toboo-editorial);
+}
+
+.check{
+    border-radius: 20px;
+    border-color: green;
+    color: green;
+    background-color: var(--toboo-white);
+}
 /* /main_attributes */
