@@ -1,13 +1,13 @@
 /* generic_attributes */
 :root{
-    --toboo-white: ffffff;
-    --toboo-light: f6f8f9;
-    --toboo-editorial: 47adf1;
-    --toboo-goals: 9c72e4;
-    --toboo-recruiting: 64c0a9;
-    --toboo-mobile: f29e33;
-    --toboo-website: d863a1;
-    --toboo-sales: b0c926;
+    --toboo-white: #ffffff;
+    --toboo-light: #f6f8f9;
+    --toboo-editorial: #47adf1;
+    --toboo-goals: #9c72e4;
+    --toboo-recruiting: #64c0a9;
+    --toboo-mobile: #f29e33;
+    --toboo-website: #d863a1;
+    --toboo-sales: #b0c926;
 }
 
 #font{
