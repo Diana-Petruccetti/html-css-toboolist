@@ -21,7 +21,7 @@ body{
 
 #container{
     margin: 40px auto;
-    width: 80%;
+    width: 70%;
     background-color: var(--toboo-white);
 }
 /* /generic_attributes */
@@ -51,6 +51,15 @@ header{
 #button1{
     color: var(--toboo-white);
     background-color: var(--toboo-editorial);
+    border-radius: 15%;
+    border-color: #47adf1;
+}
+
+#button2{
+    color:lightgray;
+    background-color: var(--toboo-white);
+    border-radius: 15%;
+    border-color: lightgrey;
 }
 
 .check{
@@ -59,4 +68,26 @@ header{
     color: green;
     background-color: var(--toboo-white);
 }
+
+.x{
+    border-radius: 20px;
+    border-color:red;
+    color:red;
+    background-color: var(--toboo-white);
+}
+
+section{
+    margin-left: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 /* /main_attributes */
+
+/* colorful_categories */
+.editorial{
+    padding: 5px 10px;
+    border-radius: 10px;
+    color: var(--toboo-white);
+    background-color: #47adf1;
+}
+/* /colorful_categories */
