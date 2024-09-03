@@ -20,8 +20,8 @@ body{
 }
 
 #container{
+    margin: 20px auto;
     width: 80%;
-    margin: auto;
 }
 /* /generic_attributes */
 
@@ -41,3 +41,7 @@ header{
     vertical-align: middle;
 }
 /* /header_attributes */
+
+/* main_attributes */
+
+/* /main_attributes */
